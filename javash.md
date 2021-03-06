@@ -1,5 +1,4 @@
 # TLDR how to compile and run java programs for SEPIA
-(aka. Eclipse/Netbeans/IDEs are a pain, bash is simple)
 
 # Compiling your program
 tldr: `javac -cp lib/Sepia.jar your/path/to/file/to/compile/filename.java`
